@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-21T12:24:24+09:00
+
+====== boolean explain ======
+Created 화요일 21 7월 2020
+
+
+
+>>>a = 4
+>>>bool(a)
+True
+>>>a = 0
+>>>bool(a)
+False
+
+>>>a = 4
+>>>a == True
+False
+>>>a == False
+False
+>>>a = 1
+>>>a = True 
+True
+>>>a = 0
+>>>a == False
+True

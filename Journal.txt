@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-21T09:56:40+09:00
+
+====== Journal ======
+Created 화요일 21 7월 2020
+

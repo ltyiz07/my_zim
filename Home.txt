@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-21T09:30:48+09:00
+
+====== Home ======
+Created 화요일 21 7월 2020
+
+[[+Java]]
+[[+python]]
+[[+git]]
+[[+NCS]]
+
+무선 마우스, 키보드 챙기기(마우스는 이미 챙김)
+
+확률(정규분포)

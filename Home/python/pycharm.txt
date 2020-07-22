@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-21T16:22:38+09:00
+
+====== pycharm ======
+Created 화요일 21 7월 2020
+
+파이참에서의 파이썬콘솔과 터미널
+
+
+1. 문장에서 연속으로 두글자 찾고 카운트하기.
+2. R의 위치로 문자연속을 둘로 쪼개는법.
+
+#하던거 이어서 해보기
+#R 기준 반으로 나누기 a, b, c
+a = "20010131Rainy"
+b = "179Rai354ny"
+c = "21R354yn76"
+d = a, b, c
+count = 0:
+save = 0:
+
+for i in a:
+	count = count + 1
+	if i = 'R':
+
+	count = count + 1
+        
