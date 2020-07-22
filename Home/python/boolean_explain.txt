@@ -25,3 +25,8 @@ True
 >>>a = 0
 >>>a == False
 True
+
+>>>a = 1
+>>>a == True
+True
+#only for git test
