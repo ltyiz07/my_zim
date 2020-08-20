@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-30T10:08:18+09:00
+
+====== myfruit ======
+Created 목요일 30 7월 2020
+
+1. 문자열 파일		
+sales = ""
+3. 리스트로 변환
+data = []
+4. 2차원 리스트로 변환하면서, 중복 고려, 합구함.
+data2 = [[ ], [ ]]

@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-27T10:37:13+09:00
+
+====== mysum list ======
+Created 월요일 27 7월 2020
+
+단어에 대해서: 
+count 로 갯수 세고 값 > 0 이면 이미 존재
+							 값 == 0 이면 추가.
+숫자에 대해서:
+단어 존재할때는 그 인덱스에 수 더하기
+추가 되면 새로운 인덱스에 수 추가
+
+list 함수들
+a.append(4) : 리스트 마지막에 추가.
+a.sort() : 순서대로 정렬
+a.reverse() : 리스트 뒤집기
+a.index(3) : 인덱스 반환
+a.insert(i, j) : i 인덱스에 j 추가
+a.remove(3) : 첫번재로 나오는 값 삭제
+a.pop() : 마지막 요소 반환하고 삭제
+a.pop(x) : 리스트 x 번째 요소 반환하고 삭제
+a.count(2) : 리스트 안에 요소 개수 세기
+a.extend() : 리스트만 사용가능하고 리스트에 추가(리스트 끼리 더하기)

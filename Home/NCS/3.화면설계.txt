@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-30T09:15:19+09:00
+
+====== 3.화면설계 ======
+Created 목요일 30 7월 2020
+
+UI (User Interface) : 일종의 대화창구
+UX (User Experience) : 사용자에게 지나치게 혁신적이지 않고 
+
+

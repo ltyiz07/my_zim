@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-30T09:04:09+09:00
+
+====== 명령어들 ======
+Created 목요일 30 7월 2020
+
+$ git add *.c
+$ git add LICENSE
+$ git commit -m 'initial project version'
+
+
+ git clone https://github.com/libgit2/libgit2
+
+
+$ git status -s
+
+
+$ cat .gitignore
+
+
+git diff --cached    or git dif --staged
+
+
+$ rm PROJECTS.md    # 로컬에서도 삭제
+$ git rm --cached README    # staging area 에서만 삭제
+$ git mv file_from file_to     # 파일이름 변경
+
+
+$ git log -p -2    # 패치 diff, log 2개만 보이기
+$ git log --stat    # 각 커밋의 통계정보 보여주기
+$ git log --pretty=oneline
+$ git log --pretty=format:"%h - %an, %ar : %s
+https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0
+
+

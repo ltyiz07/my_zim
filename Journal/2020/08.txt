@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2020-07-21T10:04:57+09:00
-
-====== 8월 2020 ======
-
-8/26 시험 예정.
-

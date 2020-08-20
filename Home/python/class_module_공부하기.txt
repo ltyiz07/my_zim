@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-08-04T14:55:09+09:00
+
+====== class module 공부하기 ======
+Created 화요일 04 8월 2020
+
+class 에서 self 에대한 개념,
+https://wikidocs.net/28
+module 사용위한 파일의 위치
+https://wikidocs.net/29
+package
+https://wikidocs.net/1418
+
+
+
+
+
+######## 파이썬은 한줄씩 진행된다.

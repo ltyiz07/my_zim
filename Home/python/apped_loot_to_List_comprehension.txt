@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-07-29T11:36:45+09:00
+
+====== apped loot to List comprehension ======
+Created 수요일 29 7월 2020
+
+a = [1, 2, 3, 4]
+b = []
+
+
+for num in a:
+	n = num * 3
+	b.append(n)
+print(b)
+
+
+# 위의 포문과 같은 내용이다.
+b = [num * 3 for num in a]
+print(b)
+
+
+# 또한 여기에 조건문을 추가 할 수도 있다.
+a = [1, 2, 3, 4]
+b = [num * 3 for num in a if num % 2 == 0]
+print(b)
+
+
+# 그리고 for 문 내부에 for 문을 또다시 사용 할 수 있다.
+b = [[i, j] for i in range(2, 10)
+	 for j in range(1, 10)]
+
+

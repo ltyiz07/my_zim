@@ -1,6 +1,6 @@
 [Notebook]
 version=0.4
-name=my_zim
+name=notebook.zim
 interwiki=
 home=Home
 icon=
@@ -11,5 +11,5 @@ disable_trash=False
 
 [JournalPlugin]
 namespace=Journal
-granularity=Day
+granularity=Week
 

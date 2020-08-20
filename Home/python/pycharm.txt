@@ -6,25 +6,14 @@ Creation-Date: 2020-07-21T16:22:38+09:00
 Created 화요일 21 7월 2020
 
 [[+split_R]]
+[[+mysum_list]]
+[[+myfruit]]
 
 
 파이참에서의 파이썬콘솔과 터미널
 
-1. 문장에서 연속으로 두글자 찾고 카운트하기.
-2. R의 위치로 문자연속을 둘로 쪼개는법.
+파이참 가상환경 설정 새로하는법:
+project interpreter 에서 경로 새로 설정 하기. => 가상환경 새로 만들어짐.
 
-#하던거 이어서 해보기
-#R 기준 반으로 나누기 a, b, c
-a = "20010131Rainy"
-b = "179Rai354ny"
-c = "21R354yn76"
-d = a, b, c
-count = 0:
-save = 0:
-
-for i in a:
-	count = count + 1
-	if i = 'R':
-
-	count = count + 1
-        
+환경설정 방법...
+먼저 버전을 결정하는데 원하는 기능이있는지 확인.
