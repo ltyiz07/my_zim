@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-24T17:19:30+09:00
+
+====== ssh ======
+Created 목요일 24 9월 2020
+
+SSH Key란 비밀번호 대신 key를 제출하는 방식이다.
+(비밀번호보다 높은 수준의 보안을 필요로 할 때, 로그인 없이 자동으로 서버에 접솔할때)
+
+private key, public key
+
+scp **__파일경로/파일__** 이름@ip주소:경로/파일
+
+사용자측이 private key, 서버측이 public key 를 보관.
+
+ssh 이름@ip주소 로 접속
+ssh -i {key경로,주소} 이름@ip주소  로 접속 키를 직접 지정하는것도 가능
+
+
+"Copy the Public Key"-----
+cat ~/.ssh/id_rsa.pub | ssh 이름@ip주소 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> [[~/.ssh/authorized_keys]]

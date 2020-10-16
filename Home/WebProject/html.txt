@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-14T11:30:19+09:00
+
+====== html ======
+Created 월요일 14 9월 2020
+
+[[VisualStudioCode]] 사용하여 
+
+
+html 리본텍스트는 16픽셀이다.
+
+
+wsl2 서버 외부 사용법: 포트 포워딩
+윈도우즈가 요척을 내부적으로 리눅스로 전달해서 사용하는법

@@ -10,6 +10,14 @@ Created 화요일 21 7월 2020
 [[+git]]
 [[+NCS]]
 [[+project_1]]
+[[+WebProject]]
+[[+linux]]
+[[+WebProject:javaScript]]
+
+
+리눅스 bash 사용법, vim 사용법
+
+
 
 선생님 메일 확인하고 답장하기
 오라클, 사람인 python, java 취업관련
@@ -30,3 +38,20 @@ Created 화요일 21 7월 2020
 
 클래스와 함수의 차이점:
 	클래스는 함수와는 다르게 해당되는 객체가 고유의 값을 갖는다.
+
+
+bash_____________
+ctrl + l = clear
+chmod
+pwd
+dir
+dirs
+ll
+ls
+python3
+cp 파일 디렉터리
+
+
+
+
+/mnt/d/leety/WebProject/html/python

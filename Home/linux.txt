@@ -1,0 +1,58 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-09-16T15:51:31+09:00
+
+====== linux ======
+Created 수요일 16 9월 2020
+
+우분투 저장소 변경
+
+
+tmux ^b %		창 멀티
+^b 방향기		창전환 
+
+
+WSL 로사용하는 리눅스(우분투) 는 보통의 리눅스와는 약간다르다.
+
+.conf 는 아파치의 환경설정 파일이다.
+
+install 시 Y 는 기본값설치이다. 
+
+mariadb-server 설치시
+ sudo apt update && sudo apt upgrade -y
+	2  sydo apt install maria-db
+	3  sudo apt install maria-db
+	4  sudo apt install maria-server
+	5  sudo apt install mariadb-server
+	6  sudo service mariadb status
+	7  sudo service mysql status
+	8  sudo service mysql start
+	9  sydo service mysql status
+   10  sudo service mysql status
+   11  sudo mariadb
+   19  sudo mysql_secure_installation
+   20  hitory
+   21  history
+
+
+sudo mariadb
+
+grant all on *.* to 'adminlee'@'localhost' identified by '0726' with grant option;
+
+   24  sudo apt install python3-pip python3-dev build-essential libssl-dev libffi-dev python3-setuptools
+   25  sudo apt install python3-venv
+   26  mkdir flask_proj
+   27  pwd
+   28  ls
+   29  cd flask_proj/
+   30  dir
+   31  python3 -m venv venv
+   32  ls
+   33  cd venv
+   34  dir
+   35  cd bin
+   36  dir
+   37  source activate
+   38  history
+
+linux 환경에서 파이썬 가상환경 접근시 source activate 명령어사용

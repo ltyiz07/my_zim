@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-10-16T08:55:05+09:00
+
+====== DBForm ======
+Created 금요일 16 10월 2020
+
+
+image
+{{.\pasted_image.png}}
+
+
+store
+{{.\pasted_image001.png}}
+
+
+tag
+{{.\pasted_image002.png}}
+
+
+tag_link
+{{.\pasted_image003.png}}
