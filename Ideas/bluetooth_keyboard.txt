@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-08T02:23:42+09:00
+
+====== bluetooth keyboard ======
+Created 일요일 08 11월 2020
+
+arduino nano, bluetooth module 사용해서 
+usb를 꽂아 사옹해야하는 기계식 키보드를 건전지, bluetooth 로 동작하는 무선 키보드로 사용할 수 있게해준다.
+
+
+(얇고 슬림하게 키도드와 밀착되게 끔 만들어 portability 증가)
+(건전지 사용으로 사용성 증가)
+(저전력 블루투스 모듈 사용)
+(완성후 레진으로 체워서 내구도 증가)

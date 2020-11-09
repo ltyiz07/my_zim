@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-09T12:17:44+09:00
+
+====== data visualization ======
+Created 월요일 09 11월 2020
+
+
+train, test로 나누어 train 데이터로 학습시키고 모델을 완성시킴.
+test 로 만들어진 모델을 시험함.
+
+!데이터가 대표할수 있는가 => 정규분포, 수학적 방법들.
+
+
+미적분, 통계, 행렬, 원리를 생각하는 힘.

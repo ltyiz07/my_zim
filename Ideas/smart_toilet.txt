@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-11-09T11:17:25+09:00
+
+====== smart toilet ======
+Created 월요일 09 11월 2020
+
+[[IoT]]
+스마트 변기
+
+변기에 사람의 대소변을 분석하는 장비를 장착해
+영양상태나 건강상태를 체크해준다.

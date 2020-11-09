@@ -15,11 +15,9 @@ Created 화요일 21 7월 2020
 [[+WebProject:javaScript]]
 
 
+
 리눅스 bash 사용법, vim 사용법
 
-
-
-선생님 메일 확인하고 답장하기
 오라클, 사람인 python, java 취업관련
 전자기학 관련 상식수준 기사 읽고 공부해서 잃어버리지 않기
 
@@ -31,27 +29,12 @@ Created 화요일 21 7월 2020
 
 계획 세우기! 파이썬 사용 프로젝트 완성하기
 
-시험내용: 
-
-08/20 - 08/26 포트폴리오
-
-
 클래스와 함수의 차이점:
 	클래스는 함수와는 다르게 해당되는 객체가 고유의 값을 갖는다.
+	
 
 
-bash_____________
-ctrl + l = clear
-chmod
-pwd
-dir
-dirs
-ll
-ls
-python3
-cp 파일 디렉터리
+자소서 볼때: 출신과, 자격증
+인공지능: asp
 
-
-
-
-/mnt/d/leety/WebProject/html/python
+visualization, IoT, cloud big data, mobile

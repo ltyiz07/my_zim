@@ -5,18 +5,16 @@ Creation-Date: 2020-09-29T11:12:49+09:00
 ====== Ideas ======
 Created 화요일 29 9월 2020
 
-"room screen"
-
-스마트 폰과 연동되는 스크린, 카메라.
-끊임없이 사용자의 개입없이 스마트폰과 연동되어 방에 들어오면 연결되어 바로사용가능.
-또한 사용자의 일방적인 요청만 받는것이아닌 스크린의 능동적인 알림, 기능도 있다.
-
-프라이버시 보안의 이유로 카메라는 물리적으로 스크린된다.
+[[+room_screen]]
+[[+bluetooth_keyboard]]
+[[+smart_toilet]]
 
 
+애완견, 애완묘 시장(IoT) 센서관련.
+
+don't wag the dog
+
+don't serve computer language let them serve me.
 
 
 
-16384
-
-11 (11 400 11 

@@ -17,6 +17,8 @@ Created 화요일 21 7월 2020
 [[+Methods]]
 [[+class_module_공부하기]]
 [[+0818class_추가수업]]
+[[+data_visualization]]
+
 
 
 파이썬 알고리즘관련 읽을것

@@ -19,3 +19,4 @@ git diff <원래가지> <비교대상 가지>
 git remote add origin https://github.com/ltyiz07/my_repo.git
 git push origin master	#push
 git clone https://github.com/poby13/my-repo.git	#깃 클로닝, 내려받기
+git config --global core.editor vim(nvim)

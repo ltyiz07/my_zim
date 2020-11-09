@@ -17,3 +17,8 @@ https://wikidocs.net/1418
 
 
 ######## 파이썬은 한줄씩 진행된다.
+
+
+snake_case: function
+
+CammelCase: Class =>객체화시켜줘야한다.

@@ -9,6 +9,8 @@ Created 월요일 14 9월 2020
 [[+ssh]] 
 [[+DBForm]]
 
+
+
 모델을 적용할때
  어트리뷰트로 텍스트들과 사진의 배열에대한 정보를 만들어
 받을 사진과 텍스트를 재정렬한다.
@@ -22,3 +24,7 @@ web
 
 edit concat ⇒ not just add but if already exist then remove
 함수에서 this 의 의미 알기
+
+
+
+193.168.74.128ll
