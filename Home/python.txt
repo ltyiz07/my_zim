@@ -19,7 +19,15 @@ Created 화요일 21 7월 2020
 [[+0818class_추가수업]]
 [[+data_visualization]]
 
+floating point 계산 (ex. 0.1+0.1+0.1 ≠ 03)
+시 range 로계산한다.
 
+a, b 변수에 정의된 값을 바꾸려면
+	temp = a
+	a = b
+	b = a 
+	
+	a, b = b, a 로 한줄로 표현가능 (파이썬만이 가능하다.)
 
 파이썬 알고리즘관련 읽을것
 https://thebook.io/006935/part01/ch03/01/
