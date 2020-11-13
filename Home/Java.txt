@@ -5,6 +5,13 @@ Creation-Date: 2020-07-21T09:35:16+09:00
 ====== Java ======
 Created 화요일 21 7월 2020
 
+
+Object 클래스 : 모든 클래스의 최고조상
+	- 조상이 없는 클래스는 자동적으로 Object클래스를 상속받게 된다.
+	- 상속계층도의 최상위에는 Object클래스가 위치한다.
+	- 모든 클래스는 Object클래스에 wjddmlehls 11개의 매서드를 상속받는다.
+
+
 https://commin.tistory.com/41
 https://git-scm.com/book/ko/v2/Git-%EB%8F%84%EA%B5%AC-Reset-%EB%AA%85%ED%99%95%ED%9E%88-%EC%95%8C%EA%B3%A0-%EA%B0%80%EA%B8%B0
 
